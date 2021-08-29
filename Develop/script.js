@@ -1,8 +1,14 @@
 // Assignment code here
-var password = document.getElementById("password");
-var chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-var passwordLength = 
+const alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numbers = "1234567890";
+const symbols = "!@#$%^&*_-+=";
 
+
+const passwordTxt = document.getElementById("password");
+const length = document.getElementById("length");
+const incNumbers = document.getElementById("numbers");
+const incSymbols = document.getElementById("symbols");
+const generateBtn = document.getElementById("generate");
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
@@ -16,4 +22,8 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", () => {
+  let characters = alpha;
+  // ternary operators
+  incNumbers ? 
+}
