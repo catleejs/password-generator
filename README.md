@@ -5,4 +5,4 @@
 
 ### 
     What it looks like:
-    ![ Gif of function](./assets/password-generator-gif.gif)
+    ![ Gif of function](./assets/images/password-generator-gif.gif)
