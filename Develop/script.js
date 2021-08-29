@@ -8,7 +8,7 @@ const passwordTxt = document.getElementById("password");
 const length = document.getElementById("length");
 const incNumbers = document.getElementById("numbers");
 const incSymbols = document.getElementById("symbols");
-const generateBtn = document.getElementById("generate");
+const generatePassword = document.getElementById("generate");
 
 
 // Add event listener to generate button
