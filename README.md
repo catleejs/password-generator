@@ -5,9 +5,9 @@
 
 ### 
     What it looks like:
-    
-    ![](assets/images/password-generator-gif.gif)
+    ![](https://user-images.githubusercontent.com/87837059/131264259-2a73e819-5141-49f6-b3c4-b1497bdee62e.gif)
 
 ###
     Live Website Link: https://madileesmith.github.io/password-generator/
+
 
