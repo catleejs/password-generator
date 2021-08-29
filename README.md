@@ -5,5 +5,5 @@
 
 ### 
     What it looks like:
-    ![password-generator-gif](password-generator\assets\images\password-generator-gif.gif)
+    ![](password-generator/assets/images/password-generator-gif.gif)
 
