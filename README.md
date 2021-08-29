@@ -6,7 +6,7 @@
 ### 
     What it looks like:
 
-    ![Alt text](password-generator\assets\images\password-generator-gif.gif)
+![password-generator-gif](https://user-images.githubusercontent.com/87837059/131266723-5913fbc8-7acc-4be4-8b93-f1581c2a6dd2.gif)
 
 
 ###
