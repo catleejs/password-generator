@@ -1,7 +1,15 @@
 # Password Generator 
 
+## This is an add-on to the source code: https://github.com/coding-boot-camp/friendly-parakeet
+
 ## Functionality: 
     Able to generate a secured password and decide what characters it should include.
+
+    ### What It Can Do:
+        - You can decide if the generated password contains:
+            1. Numbers
+            2. Special characters
+            3. Length (between 8-128 characters)
 
 ### 
     What it looks like:
